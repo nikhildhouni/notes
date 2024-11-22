@@ -27,7 +27,7 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-
+    user-select: none;
 }
 .todo-app img{
     width: 30px;
@@ -111,6 +111,7 @@ footer h5{
     font-size: 14px;
     font-weight: 300;
     text-align: center;
+    user-select: none;
 }
 
 /* For Mobile Portrait View */
