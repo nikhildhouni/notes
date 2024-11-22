@@ -106,6 +106,12 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+footer h5{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+}
 
 /* For Mobile Portrait View */
 @media screen and (max-device-width: 480px) and (orientation: portrait) {
